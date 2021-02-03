@@ -157,7 +157,7 @@ audio, video {
   
 
 #monster-wrapper {
-    background-image: url(../img/page_bg.jpg);
+    background-image: url(img/page_bg.jpg);
     background-position: center;
     background-size: 100%;
     background-repeat: repeat-y;
@@ -167,7 +167,7 @@ audio, video {
     height: 800px;
 }
 .close {
-    background-image: url(../img/modal_btn-close.png);
+    background-image: url(img/modal_btn-close.png);
     background-position: center;
     background-size: cover;
     height: 40px;
@@ -180,7 +180,7 @@ audio, video {
 }
 
 .close:hover {
-    background-image: url(../img/modal_btn-close-y.png);
+    background-image: url(img/modal_btn-close-y.png);
 }
 
 .monster-title {
