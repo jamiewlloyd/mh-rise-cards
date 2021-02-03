@@ -25,7 +25,7 @@ audio, video {
     display: flex;
     justify-content: center;
     flex-wrap: wrap;
-    background-image: url(../img/page_bg.jpg);
+    background-image: url(img/page_bg.jpg);
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
