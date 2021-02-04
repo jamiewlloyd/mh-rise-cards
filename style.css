@@ -200,7 +200,7 @@ audio, video {
     margin-left: -30px;
     transition: transform .14s ease-in-out;
     opacity: 0;
-    animation: fade 1s forwards 1.2s;
+    animation: fade 1s forwards .6s;
 }
 
 .main-monster {
@@ -239,7 +239,7 @@ audio, video {
     width: 600px;
     transition: transform .14s ease-in-out;
     opacity: 0;
-    animation: fade 1s forwards 1.2s;
+    animation: fade 1s forwards .6s;
 }
 
 @keyframes moveIn {
